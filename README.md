@@ -7,3 +7,5 @@
     end - end date as list [YEAR, MONTH, DAY], , default - last day of last month <br>
 4. Wait
 5. Profit
+
+generationFile30-BANN1.csv - result example
